@@ -62,6 +62,12 @@ var rules = {
     "What about ~y?",
     "You mentioned ~y",
   ],
+  "~*x love ~*y": [
+    "Do you want to forget about ~y?",
+    "I don't really like ~y any more.",
+    "What about ~y?",
+    "~y still loves you.",
+  ],
   "~*x I want ~*y": [
     "What would it mean if you got ~y?",
     "Why do you want ~y?",
